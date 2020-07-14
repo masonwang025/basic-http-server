@@ -5,7 +5,7 @@ const fs = require("fs");
 
 // http server
 const server = http.createServer((req, res) => {
-  // File path with ternary to check for /
+  // file path with ternary to check for /
   let filePath = path.join(
     __dirname,
     "public",
