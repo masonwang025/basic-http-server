@@ -1,6 +1,6 @@
 # Node-HTTP-Server
 
-A basic HTTP server built from scratch with Node (no express) that serves HTML, CSS, JS, JSON, PNG, and JPG files.
+A basic HTTP server built from scratch with Node (no Express).
 
 ## Usage
 
