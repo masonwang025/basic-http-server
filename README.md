@@ -12,6 +12,4 @@ npm start
 
 <i>To run the development version (with nodemon):</i> `npm run dev`
 
-## Serving HTML
-
-The code in `serveHTMLPage.js` handles the HTTP request by either serving the requested HTML file or a 404 message. `index.js` handles the routes.
+<b>See demo at: <a href="http://mason-http-server.herokuapp.com/" target="_blank">mason-http-server.herokuapp.com</a></b>
