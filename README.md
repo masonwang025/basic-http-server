@@ -1,10 +1,10 @@
 # Node-HTTP-Server
 
-An HTTP server built from scratch with Node (no express). <b>Serves HTML, CSS, JS, JSON, PNG, and JPG files.</b>
+A basic HTTP server built from scratch with Node (no express) that serves HTML, CSS, JS, JSON, PNG, and JPG files.
 
 ## Usage
 
-<b>See demo at: <a href="http://mason-http-server.herokuapp.com/">mason-http-server.herokuapp.com</a></b>
+<b>Demo: <a href="http://mason-http-server.herokuapp.com/">mason-http-server.herokuapp.com</a></b>
 
 ```shell
 git clone https://github.com/MasonWang025/Node-HTTP-Server.git
