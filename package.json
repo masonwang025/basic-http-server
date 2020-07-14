@@ -1,0 +1,23 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "Node HTTP server from scratch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasonWang025/Node-HTTP-Server.git"
+  },
+  "author": "Mason Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasonWang025/Node-HTTP-Server/issues"
+  },
+  "homepage": "https://github.com/MasonWang025/Node-HTTP-Server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
